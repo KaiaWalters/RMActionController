@@ -6,7 +6,6 @@ let package = Package(
     name: "RMActionController",
 	platforms: [
 		.iOS(.v8)
-    )
 	],
     products: [
         .library(
